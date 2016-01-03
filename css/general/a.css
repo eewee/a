@@ -1,0 +1,13 @@
+/* HX */
+h2, .h2 {
+  color: grey;
+}
+
+/* GENERAL */
+a {
+  color: #ccc;
+  text-decoration: underline;
+}
+a :hover {
+  text-decoration: none;
+}
